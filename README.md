@@ -1,7 +1,7 @@
 # web前端开发规范
 ## 一、css部分
 ## [参考链接](http://nec.netease.com/standard/css-sort.html)
-## [百度规范]（https://github.com/fex-team/styleguide/blob/master/css.md）
+## [百度规范](https://github.com/fex-team/styleguide/blob/master/css.md)
 ### （0）注意事项
 - 1、一律小写
 - 2、尽量用英文
